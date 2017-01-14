@@ -1,0 +1,11 @@
+{
+  "user": [
+    { "id": 1, "name": "Adam", "surname": "Trump" },
+    { "id": 2, "name": "Elle", "author": "Obama" },
+    { "id": 3, "name": "Micheal", "author": "Adams" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
