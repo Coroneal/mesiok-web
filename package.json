@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "babel-plugin-react-intl": "^2.3.0",
     "react-scripts": "0.8.5"
   },
   "dependencies": {
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "react-intl": "^2.2.3",
+    "react-tap-event-plugin": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
